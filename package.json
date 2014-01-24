@@ -1,0 +1,24 @@
+{
+  "name": "script-server",
+  "description": "Minifies and serves to client js scripts",
+  "version": "1.0.0",
+  "dependencies": {
+    "uglify-js": "2.4.x"
+  },
+  "author": {
+    "name": "Yurij Mikhalevich",
+    "email": "0@39.yt"
+  },
+  "keywords": [
+      "server",
+      "script",
+      "minifier",
+      "script server"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cat-corporation/script-server"
+  },
+  "main": "index",
+  "readmeFilename": "README.md"
+}
