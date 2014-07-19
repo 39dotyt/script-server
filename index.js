@@ -2,9 +2,7 @@
  * @license GPLv3
  * @author 0@39.yt (Yurij Mikhalevich)
  */
-
-var path = require('path'),
-    uglifyjs = require('uglify-js');
+var uglifyjs = require('uglify-js');
 
 
 /**
