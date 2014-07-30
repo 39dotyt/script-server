@@ -1,5 +1,5 @@
 /**
- * @license GPL-3.0
+ * @license BSD-3-Clause
  * @author 0@39.yt (Yurij Mikhalevich)
  */
 var uglifyjs = require('uglify-js');
